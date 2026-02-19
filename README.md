@@ -1,6 +1,5 @@
 - 👋 Hi, I’m prcx-mg23 
-- 👀 I’m interested in Network and Cybersecurity
-- 🌱 I’m currently learning Web development
+- 👀 I like Network and Cybersecurity
 - 📫 How to reach me: on LinkedIn Gloire Précieux Mabengo
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: 1+1=10
