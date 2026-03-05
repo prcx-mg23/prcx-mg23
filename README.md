@@ -7,15 +7,13 @@ je suis passionné par la Sécurité informatique, le développement et le cloud
 ---
 
 ### 🚀 En bref...
-- 🎓 Actuellement en **Licence Informatique** à l'Université de Limoges.
+- 🎓 Actuellement en **Licence 3 Informatique** à l'Université de Limoges.
 - ☁️ Certifié **AWS Cloud Practitioner**.
-- 🛡️ En ce moment, je suis focus sur la **sécurité offensive et défensive** (XSS, SQLI, UFW, Fail2Ban).
 - 💼 Déjà 2 expériences en **Admin Systèmes & Réseaux**.
 
 ---
 
 ### 🛠 Ma Stack Technique
-
 | Domaine | Technologies |
 | :--- | :--- |
 | **Cloud & VM** | AWS (EC2, S3, VPC, IAM), VMWARE |
@@ -27,7 +25,8 @@ je suis passionné par la Sécurité informatique, le développement et le cloud
 ---
 
 ### 📂 Quelques Projets
-* **[Sécurisation de Serveur Linux](https://github.com/prcx-mg23/Linux-server-hardening-lab)** :Redirection HTTP vers HTTPS, Mise en place de Fail2Ban, pare-feu UFW et renforcement SSH.
+* **[Gestionnaire de mot de passe](https://github.com/prcx-mg23/OKULT-version1-TerminalUI)** : outils de gestion de mots de passe en ligne de commande(génération, sauvegarde, chiffrement et déchiffrement).
+* **[Sécurisation de Serveur Linux](https://github.com/prcx-mg23/Linux-server-hardening-lab)** : Redirection HTTP vers HTTPS, Mise en place de Fail2Ban, pare-feu UFW et renforcement SSH.
 * **[Sécurisation d'un réseau avec un firewall ASA](https://github.com/prcx-mg23/Reseau-Securise-avec-Cisco-ASA-5505-Cisco-Packet-Tracer)** :  mise en place d'un pare-feu Cisco ASA 5505 avec NAT statique et politique de contrôle d'accès (ACL) (Cisco packet tracer).
 * **[Booking Sportif](https://github.com/RiDoX-i/web-project)** : Application web complète (PHP/MySQL) avec système d'authentification sécurisée.
 * **[Image manager](https://github.com/prcx-mg23/Java-Image-Manager)** : Outil permettant de gérer, transformer et sécuriser une bibliothèque d'images via une interface graphique moderne (Java, JavaFX).
