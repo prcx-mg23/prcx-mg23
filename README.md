@@ -1,7 +1,39 @@
-- 👋 Hi, I’m prcx-mg23 
-- 👀 I like Network and Cybersecurity
+# Hello ! Je suis Prcx-mg23
+_ _ _
+## Etudiant en Informatique | Futur ingénieur en Cybersécurité
+je suis passionné par la Sécurité informatique, le développement et le cloud computing.
 
-<!---
-prcx-mg23/prcx-mg23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Actuellement à la recherche d'un stage de 8 semaines minimum débutant à partir du 31 Mars 2026
+---
+
+### 🚀 En bref...
+- 🎓 Actuellement en **Licence Informatique** à l'Université de Limoges.
+- ☁️ Certifié **AWS Cloud Practitioner**.
+- 🛡️ En ce moment, je suis focus sur la **sécurité offensive et défensive** (XSS, SQLI, UFW, Fail2Ban).
+- 💼 Déjà 2 expériences en **Admin Systèmes & Réseaux**.
+
+---
+
+### 🛠 Ma Stack Technique
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **Cloud & VM** | AWS (EC2, S3, VPC, IAM), VMWARE |
+| **Sécurité** | UFW, Fail2Ban, Nmap, Wireshark, Cryptographie|
+| **Systèmes** | Linux, Active Directory, GPO, LDAP |
+| **Dev & Scripting** | Python, Java, C++, Bash, HTML, TailwindCSS, JS, PHP |
+| **Réseau** | Routage, VLAN, Wi-Fi, DHCP/DNS, Zabbix|
+
+---
+
+### 📂 Quelques Projets
+* **[Sécurisation de Serveur Linux](https://github.com/prcx-mg23/Linux-server-hardening-lab)** :Redirection HTTP vers HTTPS, Mise en place de Fail2Ban, pare-feu UFW et renforcement SSH.
+* **[Sécurisation d'un réseau avec un firewall ASA](https://github.com/prcx-mg23/Reseau-Securise-avec-Cisco-ASA-5505-Cisco-Packet-Tracer)** :  mise en place d'un pare-feu Cisco ASA 5505 avec NAT statique et politique de contrôle d'accès (ACL) (Cisco packet tracer).
+* **[Booking Sportif](https://github.com/RiDoX-i/web-project)** : Application web complète (PHP/MySQL) avec système d'authentification sécurisée.
+* **[Image manager](https://github.com/prcx-mg23/Java-Image-Manager)** : Outil permettant de gérer, transformer et sécuriser une bibliothèque d'images via une interface graphique moderne (Java, JavaFX).
+
+---
+
+*♟️ Quand je ne code pas, je suis probablement en train de dessiner, de jouer aux échecs ou de lire un manga.* 
+_ _ _
+* **Portfolio**: https://prcx-mg23.github.io/precieux-mabengo-portfolio/
