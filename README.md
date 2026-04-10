@@ -35,4 +35,4 @@ je suis passionné par la Sécurité informatique, le développement et le cloud
 
 *♟️ Quand je ne code pas, je suis probablement en train de dessiner, de jouer aux échecs ou de lire un manga.* 
 _ _ _
-* **Portfolio**: https://prcx-mg23.github.io/precieux-mabengo-portfolio/
+* **Portfolio**: https://prcx-mg23.github.io/portfolio-precieux-mabengo/
