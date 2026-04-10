@@ -3,7 +3,7 @@ _ _ _
 ## Etudiant en Informatique | Futur ingénieur en Cybersécurité
 je suis passionné par la Sécurité informatique, le développement et le cloud computing.
 
-## Actuellement à la recherche d'une alternance de 24 mois débutant à partir du Septembre 2026.
+## Actuellement à la recherche d'une alternance de 24 mois débutant à partir de Septembre 2026.
 ---
 
 ### 🚀 En bref...
