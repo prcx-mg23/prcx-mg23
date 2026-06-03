@@ -1,13 +1,13 @@
 # Hello ! Je suis Prcx-mg23
 _ _ _
 ## Etudiant en Informatique | Futur ingénieur en Cybersécurité
-je suis passionné par la Sécurité informatique, le développement et le cloud computing.
+je suis passionné par la Sécurité informatique, l'administration d'infrastructures, le développement et le cloud computing.
 
 ## Actuellement à la recherche d'une alternance de 24 mois débutant à partir de Septembre 2026.
 ---
 
 ### 🚀 En bref...
-- 🎓 Actuellement en **Licence 3 Informatique** à l'Université de Limoges
+- 🎓 Actuellement en fin de **Licence 3 Informatique** à l'Université de Limoges
 - ☁️ Certifié **AWS Cloud Practitioner**.
 - 💼 Déjà 2 expériences en **Admin Systèmes & Réseaux**.
 
@@ -35,4 +35,4 @@ je suis passionné par la Sécurité informatique, le développement et le cloud
 
 *♟️ Quand je ne code pas, je suis probablement en train de dessiner, de jouer aux échecs ou de lire un manga.* 
 _ _ _
-* **Portfolio**: https://prcx-mg23.github.io/portfolio-precieux-mabengo/
+* **Portfolio**:  https://portfolio-precieux-mabengo.vercel.app/
