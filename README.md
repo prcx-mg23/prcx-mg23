@@ -3,11 +3,11 @@ _ _ _
 ## Etudiant en Informatique | Futur ingénieur en Cybersécurité
 je suis passionné par la Sécurité informatique, l'administration d'infrastructures, le développement et le cloud computing.
 
-## Actuellement à la recherche d'une alternance de 24 mois débutant à partir de Septembre 2026.
+## Actuellement à la recherche d'une alternance débutant à partir de Septembre 2026.
 ---
 
 ### 🚀 En bref...
-- 🎓 Actuellement en fin de **Licence 3 Informatique** à l'Université de Limoges
+- 🎓 Actuellement **en recherche d'une alternance pour un master 1 en Cybersécurité**.
 - ☁️ Certifié **AWS Cloud Practitioner**.
 - 💼 Déjà 2 expériences en **Admin Systèmes & Réseaux**.
 
