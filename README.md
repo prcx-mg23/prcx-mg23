@@ -1,6 +1,6 @@
 # Hello ! Je suis Prcx-mg23
 _ _ _
-## Etudiant en Informatique | Futur ingénieur en Cybersécurité
+## Etudiant en Informatique | Futur ingénieur en Informatique
 je suis passionné par la Sécurité informatique, l'administration d'infrastructures, le développement et le cloud computing.
 ---
 
