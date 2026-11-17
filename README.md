@@ -1,23 +1,26 @@
 # Hello ! Je suis Prcx-mg23
 _ _ _
 ## Etudiant en Informatique | Futur ingénieur en Informatique
-je suis passionné par la Sécurité informatique, l'administration d'infrastructures, le développement et le cloud computing.
+Je suis passionné par la cybersécurité, les réseaux, l'administration système et le développement d'applications.
 ---
 
 ### 🚀 En bref...
-- ☁️ Certifié **AWS Cloud Practitioner**.
-- 💼 Déjà 2 expériences en **Admin Systèmes & Réseaux**.
+- **J'aime comprendre comment les systèmes et les applications fonctionnent afin de les optimiser et les sécuriser**.
+- **Je suis très intéressé par par des propositions de stage et d'alternance**.
 
 ---
 
 ### 🛠 Ma Stack Technique
-| Domaine | Technologies |
+| Domaine | Technologies/Compétences |
 | :--- | :--- |
-| **Cloud & VM** | AWS (EC2, S3, VPC, IAM), VMWARE |
-| **Sécurité** | UFW, Fail2Ban, Nmap, Wireshark, Cryptographie|
+| **Sécurité** |SOC (Wazuh), Durcissement système Linux, Veille cyber, CTF|
 | **Systèmes** | Linux, Active Directory, GPO, LDAP |
-| **Dev & Scripting** | Python, Java, C++, Bash, HTML, TailwindCSS, JS, PHP |
-| **Réseau** | Routage, VLAN, Wi-Fi, DHCP/DNS, Zabbix|
+| **Réseau** | Routage, VLAN, Wi-Fi, DHCP/DNS, Zabbix, Wireshark|
+| **Cloud & VM** | AWS (EC2, S3, VPC, IAM), VMWARE |
+| **Développement** | Python, Java, C++, C, HTML, JS, PHP, CSS (Bootstrap, Tailwind)|
+| **Scripting** | Python, Bash|
+
+
 
 ---
 
@@ -30,6 +33,6 @@ je suis passionné par la Sécurité informatique, l'administration d'infrastruc
 
 ---
 
-*♟️ Quand je ne code pas, je suis probablement en train de dessiner, de jouer aux échecs ou de lire un manga.* 
+*♟️ Quand je ne geeke pas, je suis probablement en train de dessiner, de jouer aux échecs ou de lire un manga.* 
 _ _ _
 * **Portfolio**:  https://portfolio-precieux-mabengo.vercel.app/
