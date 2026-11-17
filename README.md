@@ -17,7 +17,7 @@ Je suis passionné par la cybersécurité, les réseaux, l'administration systè
 | **Systèmes** | Linux, Active Directory, GPO, LDAP |
 | **Réseau** | Routage, VLAN, Wi-Fi, DHCP/DNS, Zabbix, Wireshark|
 | **Cloud & VM** | AWS (EC2, S3, VPC, IAM), VMWARE |
-| **Développement** | Python, Java, C++, C, HTML, JS, PHP, CSS (Bootstrap, Tailwind)|
+| **Développement** | Python, Java, C++, C, PostgreSQL, MySQL, HTML, JS, PHP, CSS (Bootstrap, Tailwind)|
 | **Scripting** | Python, Bash|
 
 
