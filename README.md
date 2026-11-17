@@ -10,7 +10,7 @@ Je suis passionné par la cybersécurité, les réseaux, l'administration systè
 
 ---
 
-### 🛠 Ma Stack Technique
+### 💻 Mes compétences
 | Domaine | Technologies/Compétences |
 | :--- | :--- |
 | **Sécurité** |SOC (Wazuh), Durcissement système Linux, Veille cyber, CTF|
